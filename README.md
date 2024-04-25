@@ -1,6 +1,6 @@
 # Treegens DApp - Frontend
 
-Welcome to Treegens DApp, a platform for Proof of Plant where tree planters can learn, plant trees, record their growth, and get rewarded with $MGRO tokens. Verifiers play a crucial role in ensuring the integrity of the data and are rewarded with TGN tokens. This README provides an overview of the frontend aspect of the Treegens DApp.
+Welcome to Treegens DApp, a platform for Proof of Plant where tree planters can learn, plant trees, record their growth, and get rewarded with $MGRO tokens. Verifiers play a crucial role in ensuring the integrity of the data and are rewarded through the Treegens DAO. This README provides an overview of the frontend aspect of the Treegens DApp.
 
 ## Table of Contents
 
@@ -71,8 +71,12 @@ We welcome contributions from the community to improve the Treegens DApp. If you
 4. Push to your branch: git push origin feature-name.
 5. Submit a pull request with a detailed description of your changes.
 
-## License
+## Figma Wireframes
 
-This project is licensed under the [MIT License](LICENSE).
+Wireframes of the front-end, which is currently in development, can be found here:
+
+1. (From planter's view) [https://www.figma.com/proto/TxrMEZpYUVb2iDy7XujsCh/Treegens-App-Development?page-id=8%3A5&type=design&node-id=481-1734&viewport=919%2C452%2C0.41&t=DYSQQuNtsAUmy9Ka-1&scaling=scale-down&starting-point-node-id=481%3A1734&mode=design]
+
+2. (From validator's view) [https://www.figma.com/proto/TxrMEZpYUVb2iDy7XujsCh/Treegens-App-Development?page-id=8%3A5&type=design&node-id=614-4479&viewport=-1793%2C363%2C0.38&t=iKbng5CSUjhnKZuI-1&scaling=scale-down&starting-point-node-id=614%3A4479&show-proto-sidebar=1&mode=design]
 
 For more information about Treegens DApp, visit our website or contact us at [contact@treegens.com](mailto:contact@treegens.com). Thank you for contributing to a greener future! 🌳💚
